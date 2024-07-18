@@ -1,0 +1,79 @@
+{
+  "allVideos": [
+    {
+      "caption": "Charlie Munger on investing",
+      "imageUrl": "https://www.newtraderu.com/wp-content/uploads/Charlie-Munger-Said-He-Wouldnt-Be-so-Rich-if-Others-Werent-so-Often-Wrong-5-Deadly-Investing-Mistakes-to-Avoid.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1",
+      "embedLink": "https://www.youtube.com/embed/peUrLZ24GfM",
+      "id": 1
+    },
+    {
+      "caption": "Introduction to PostgreSQL",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xMJg3S9qmOGiE6dmgDbdQvex4rISml647w&s",
+      "embedLink": "https://www.youtube.com/embed/RtFAqW_2Eik",
+      "id": 2
+    },
+    {
+      "caption": "Clear and Present Danger",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWkx-iK7bm2yHDA_hLMXkkvqkWB6zPob4fA&s",
+      "embedLink": "https://www.youtube.com/embed/dKsDjpKr2Mk",
+      "id": 4
+    },
+    {
+      "caption": "Mad Max Furiosa",
+      "imageUrl": "https://i0.wp.com/nerdbot.com/wp-content/uploads/2024/05/Furiosa-Poster.jpg?fit=1068%2C785&ssl=1",
+      "embedLink": "https://www.youtube.com/embed/7wKUlPr3-Y0",
+      "id": 5
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Tom Clancy",
+      "allVideos": [
+        {
+          "caption": "Clear and Present Danger",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBWkx-iK7bm2yHDA_hLMXkkvqkWB6zPob4fA&s",
+          "embedLink": "https://www.youtube.com/embed/dKsDjpKr2Mk",
+          "id": 4
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Master Programmer",
+      "allVideos": [
+        {
+          "caption": "Introduction to PostgreSQL",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xMJg3S9qmOGiE6dmgDbdQvex4rISml647w&s",
+          "embedLink": "https://www.youtube.com/embed/RtFAqW_2Eik",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Entertainment",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Charlie Munger on investing",
+      "url": "https://www.youtube.com/embed/peUrLZ24GfM",
+      "timeStamp": "15/07/2024, 11:59:03",
+      "id": 4
+    },
+    {
+      "caption": "Clear and Present Danger",
+      "url": "https://www.youtube.com/embed/dKsDjpKr2Mk",
+      "timeStamp": "16/07/2024, 13:13:35",
+      "id": 5
+    },
+    {
+      "caption": "Clear and Present Danger",
+      "url": "https://www.youtube.com/embed/dKsDjpKr2Mk",
+      "timeStamp": "17/07/2024, 11:37:31",
+      "id": 6
+    }
+  ]
+}
